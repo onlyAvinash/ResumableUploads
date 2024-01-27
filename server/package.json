@@ -1,0 +1,51 @@
+{
+  "name": "resumable-uploads-backend",
+  "version": "1.0.0",
+  "description": " Node.js server for uploading files that won't give up! It remembers progress, making uploads smooth and reliable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlyAvinash/ResumableUploads.git"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "resume",
+    "Node.jsbackend",
+    "upload",
+    "recovery",
+    "resilient",
+    "seamless",
+    "efficient",
+    "large",
+    "files",
+    "file",
+    "transfer",
+    "file",
+    "management",
+    "JavaScript",
+    "server",
+    "reliability",
+    "user",
+    "experience",
+    "continuity",
+    "interruption",
+    "handling",
+    "robust",
+    "Node",
+    "backend",
+    "GitHub"
+  ],
+  "author": "Avinash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onlyAvinash/ResumableUploads/issues"
+  },
+  "homepage": "https://github.com/onlyAvinash/ResumableUploads#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
